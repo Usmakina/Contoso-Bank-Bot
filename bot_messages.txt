@@ -1,0 +1,13 @@
+Hello > Hello
+clear
+
+NZD to USD
+NZD to USD 99.99
+
+log in > Usmakina/abc > 12345/12344
+sign up > Usmakina/abc/Henry > 123456
+log out
+
+show transactions
+new transaction > withdraw/deposit > 99.99
+delete transaction > xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxxx
